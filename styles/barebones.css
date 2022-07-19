@@ -98,6 +98,10 @@ html {
 		--button-primary-color: white;
   }
 
+  img {
+    border-radius: 10px;
+  }
+
 	img.value-img {
 		filter: invert(0.8);
 	}
