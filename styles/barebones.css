@@ -476,3 +476,11 @@ there.
   margin-top: -10px;
   margin-bottom: 2rem;
 }
+
+.centered-container {
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  min-height:100vh;
+  margin: 0 25%;
+}
